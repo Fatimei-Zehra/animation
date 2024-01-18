@@ -22,9 +22,7 @@
     font-weight: 600;
 }
 
-/* .animation-circle{
-    display: flex;
-} */
+
 
 .circle {
     width: 15px;
@@ -33,7 +31,6 @@
     background-color: rgb(64, 64, 185);
     display: inline-block;
     margin-top: 50px;
-    /* animation:  circle 1s linear infinite; */
 
 }
 
